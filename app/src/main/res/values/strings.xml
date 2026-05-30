@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kuis1_Kalkulator_Clarissa</string>
+    <string name="title_kalkulator">Kalkulator Sederhana</string>
+    <string name="hint_angka1">Masukkan Angka 1</string>
+    <string name="hint_angka2">Masukkan Angka 2</string>
+    <string name="hasil_awal">Hasil akan muncul di sini</string>
+    <string name="hasil_format">Hasil: %s</string>
+    <string name="error_input">Mohon masukkan kedua angka</string>
+    <string name="error_nol">Tidak bisa membagi dengan nol</string>
+    <string name="error_invalid">Input tidak valid</string>
+    <string name="op_tambah">+</string>
+    <string name="op_kurang">-</string>
+    <string name="op_kali">*</string>
+    <string name="op_bagi">/</string>
+</resources>
